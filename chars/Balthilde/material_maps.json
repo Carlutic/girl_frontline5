@@ -1,5 +1,14 @@
 {
-    "c_BalthildeSSR01_slg_cloth1_d.png": "textures/normalmap/c_BalthildeSSR01_slg_cloth1_n.png",
-    "c_BalthildeSSR01_slg_cloth2_d.png": "textures/normalmap/c_BalthildeSSR01_slg_cloth2_n.png",
-    "c_BalthildeSSR01_slg_Goggles_da.png": "textures/normalmap/c_BalthildeSSR01_slg_Goggles_n.png"
+    "c_BalthildeSSR01_slg_cloth1_d.png": {
+        "normal": "textures/normalmap/c_BalthildeSSR01_slg_cloth1_n.png",
+        "rmo": "textures/normalmap/c_balthildessr01_slg_cloth1_rmo_06_13_2025_orm.png"
+    },
+    "c_BalthildeSSR01_slg_cloth2_d.png": {
+        "normal": "textures/normalmap/c_BalthildeSSR01_slg_cloth2_n.png",
+        "rmo": "textures/normalmap/c_balthildessr01_slg_cloth2_rmo_06_13_2025_orm.png"
+    },
+    "c_BalthildeSSR01_slg_Goggles_da.png": {
+        "normal": "textures/normalmap/c_BalthildeSSR01_slg_Goggles_n.png",
+        "rmo": "textures/normalmap/c_BalthildeSSR01_slg_Goggles_rmo_orm.png"
+    }
 }
